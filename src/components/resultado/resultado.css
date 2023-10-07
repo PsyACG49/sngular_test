@@ -1,0 +1,10 @@
+.container__result {
+  margin-top: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+.container__result .result__text {
+  font-size: 2rem;
+  color: var(--white);
+}

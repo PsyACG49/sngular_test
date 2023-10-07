@@ -1,6 +1,7 @@
 import "./home.css";
 import FORMULA from "../../assets/formula.png";
 import Entrada from "../../components/entrada/Entrada";
+import Resultado from "../../components/resultado/Resultado";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
         loading="lazy"
       />
       <Entrada />
+      <Resultado />
     </main>
   );
 };
