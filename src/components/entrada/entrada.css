@@ -34,8 +34,10 @@
   font-size: 1.5rem;
   background: #3d8ec7;
   color: var(--white);
-  /* transition: ; */
+  cursor: pointer;
+  transition: all 0.5s ease;
 }
 
-/* .form__entrada .entrada__btn:hover {
-} */
+.form__entrada .entrada__btn:hover {
+  background: #469cd9;
+}
