@@ -12,6 +12,7 @@ const Home = () => {
   return (
     <main className="section__home">
       <h2 className="home__title">Sngular Exercise</h2>
+      <h3>Andres Cuevas</h3>
       <p className="home__instructions">
         Ingresa un numero N para optener el enesimo numero de la siguiente
         serie:
